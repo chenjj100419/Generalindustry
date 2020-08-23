@@ -1,0 +1,18 @@
+[
+  {
+    "modid": "generalindustrystar",
+    "name": "Generalindustrystar",
+    "description": "Generalindustry_Star mod can make the game more interesting. It adds a variety of devices. It runs on forge 1.12.2 and is best installed optfine",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "https://chenjj100419.github.io/Generalindustry_Web/",
+    "updateUrl": "",
+    "authorList": [
+      "chenjj100419"
+    ],
+    "credits": "",
+    "logoFile": "generalindustrystar:gui/logo.png",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
